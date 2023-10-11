@@ -10,7 +10,7 @@ Study.com and University of Houston
 - •	Completed classes covering SQL and relational databases.
 - •	G.P.A. 3.71, Combined University of Houston and Study.com
 - •	University of Houston, Attended from August 2018 to May 2022
-# Caldwell High School
+## Caldwell High School
 - •	Graduated May 2018: G.P.A. 3.56
 
 ### Academic Projects
