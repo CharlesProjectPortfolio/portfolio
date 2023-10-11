@@ -10,7 +10,7 @@ Study.com and University of Houston
 - •	Completed classes covering SQL and relational databases.
 - •	G.P.A. 3.71, Combined University of Houston and Study.com
 - •	University of Houston, Attended from August 2018 to May 2022
-Caldwell High School
+# Caldwell High School
 - •	Graduated May 2018: G.P.A. 3.56
 
 ### Academic Projects
@@ -23,7 +23,7 @@ Associate, American Furniture Warehouse
 July 2022 - Present
 - •	Working in a fast-paced team environment to help coordinate receiving and shipping of product. Updating and tracking of incoming and outgoing inventory with advanced computer software.
 - •	Responsible for training new departmental staff.
-Other, Shop Hand for Local Auto Parts Store
+# Other, Shop Hand for Local Auto Parts Store
 March 2017 - May 2018
 - •	Developed excellent communication skills by assisting customers with product selections.
 - •	Assisted team members in counting and updating inventory.
